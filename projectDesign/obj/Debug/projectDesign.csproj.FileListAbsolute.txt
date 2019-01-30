@@ -1,0 +1,51 @@
+C:\Users\Mauris\Desktop\University\Semester 1\Project Managment\projectDesign\projectDesign\obj\Debug\projectDesign.csprojResolveAssemblyReference.cache
+C:\Users\Mauris\Desktop\University\Semester 1\Project Managment\projectDesign\projectDesign\obj\Debug\projectDesign.Addcs.resources
+C:\Users\Mauris\Desktop\University\Semester 1\Project Managment\projectDesign\projectDesign\obj\Debug\projectDesign.Amend.resources
+C:\Users\Mauris\Desktop\University\Semester 1\Project Managment\projectDesign\projectDesign\obj\Debug\projectDesign.Login.resources
+C:\Users\Mauris\Desktop\University\Semester 1\Project Managment\projectDesign\projectDesign\obj\Debug\projectDesign.Properties.Resources.resources
+C:\Users\Mauris\Desktop\University\Semester 1\Project Managment\projectDesign\projectDesign\obj\Debug\projectDesign.csproj.GenerateResource.Cache
+C:\Users\Mauris\Desktop\University\Semester 1\Project Managment\projectDesign\projectDesign\obj\Debug\projectDesign.csproj.CoreCompileInputs.cache
+C:\Users\Mauris\Desktop\University\Semester 1\Project Managment\projectDesign\projectDesign\bin\Debug\projectDesign.exe.config
+C:\Users\Mauris\Desktop\University\Semester 1\Project Managment\projectDesign\projectDesign\bin\Debug\projectDesign.exe
+C:\Users\Mauris\Desktop\University\Semester 1\Project Managment\projectDesign\projectDesign\bin\Debug\projectDesign.pdb
+C:\Users\Mauris\Desktop\University\Semester 1\Project Managment\projectDesign\projectDesign\obj\Debug\projectDesign.exe
+C:\Users\Mauris\Desktop\University\Semester 1\Project Managment\projectDesign\projectDesign\obj\Debug\projectDesign.pdb
+C:\Users\Mauris\Desktop\University\Semester 1\Project Managment\projectDesign\projectDesign\bin\Debug\Logins.accdb
+C:\Users\Mauris\Desktop\University\Semester 1\Project Managment\projectDesign\projectDesign\obj\Debug\projectDesign.Register.resources
+C:\Users\Mauris\Desktop\University\Semester 1\Project Managment\projectDesign\projectDesign\obj\Debug\projectDesign.Amend2.resources
+C:\Users\Mauris\Desktop\University\Semester 1\Project Managment\Current application\projectDesign\projectDesign\bin\Debug\projectDesign.exe
+C:\Users\Mauris\Desktop\University\Semester 1\Project Managment\Current application\projectDesign\projectDesign\bin\Debug\KeyStorageSystem.accdb
+C:\Users\Mauris\Desktop\University\Semester 1\Project Managment\Current application\projectDesign\projectDesign\bin\Debug\Logins.accdb
+C:\Users\Mauris\Desktop\University\Semester 1\Project Managment\Current application\projectDesign\projectDesign\bin\Debug\projectDesign.exe.config
+C:\Users\Mauris\Desktop\University\Semester 1\Project Managment\Current application\projectDesign\projectDesign\obj\Debug\projectDesign.csprojResolveAssemblyReference.cache
+C:\Users\Mauris\Desktop\University\Semester 1\Project Managment\Current application\projectDesign\projectDesign\obj\Debug\projectDesign.Add2.resources
+C:\Users\Mauris\Desktop\University\Semester 1\Project Managment\Current application\projectDesign\projectDesign\obj\Debug\projectDesign.Addcs.resources
+C:\Users\Mauris\Desktop\University\Semester 1\Project Managment\Current application\projectDesign\projectDesign\obj\Debug\projectDesign.Amend.resources
+C:\Users\Mauris\Desktop\University\Semester 1\Project Managment\Current application\projectDesign\projectDesign\obj\Debug\projectDesign.Amend2.resources
+C:\Users\Mauris\Desktop\University\Semester 1\Project Managment\Current application\projectDesign\projectDesign\obj\Debug\projectDesign.Login.resources
+C:\Users\Mauris\Desktop\University\Semester 1\Project Managment\Current application\projectDesign\projectDesign\obj\Debug\projectDesign.Properties.Resources.resources
+C:\Users\Mauris\Desktop\University\Semester 1\Project Managment\Current application\projectDesign\projectDesign\obj\Debug\projectDesign.Register.resources
+C:\Users\Mauris\Desktop\University\Semester 1\Project Managment\Current application\projectDesign\projectDesign\obj\Debug\projectDesign.csproj.GenerateResource.Cache
+C:\Users\Mauris\Desktop\University\Semester 1\Project Managment\Current application\projectDesign\projectDesign\obj\Debug\projectDesign.csproj.CoreCompileInputs.cache
+C:\Users\Mauris\Desktop\University\Semester 1\Project Managment\Current application\projectDesign\projectDesign\obj\Debug\projectDesign.exe
+C:\Users\Mauris\Desktop\University\Semester 1\Project Managment\Current application\projectDesign\projectDesign\obj\Debug\projectDesign.pdb
+C:\Users\Mauris\Desktop\University\Semester 1\Project Managment\Current application\projectDesign\projectDesign\bin\Debug\projectDesign.pdb
+C:\Users\Mauris\Desktop\University\Semester 1\Project Managment\projectDesign\projectDesign\bin\Debug\KeyStorageSystem.accdb
+C:\Users\Mauris\Desktop\University\Semester 1\Project Managment\projectDesign\projectDesign\obj\Debug\projectDesign.Allocate_Key.resources
+C:\Users\Mauris\Desktop\University\Semester 1\Project Managment\Nescol 4 Project\Final Project\projectDesign\bin\Debug\KeyStorageSystem.accdb
+C:\Users\Mauris\Desktop\University\Semester 1\Project Managment\Nescol 4 Project\Final Project\projectDesign\bin\Debug\Logins.accdb
+C:\Users\Mauris\Desktop\University\Semester 1\Project Managment\Nescol 4 Project\Final Project\projectDesign\bin\Debug\projectDesign.exe.config
+C:\Users\Mauris\Desktop\University\Semester 1\Project Managment\Nescol 4 Project\Final Project\projectDesign\bin\Debug\projectDesign.exe
+C:\Users\Mauris\Desktop\University\Semester 1\Project Managment\Nescol 4 Project\Final Project\projectDesign\bin\Debug\projectDesign.pdb
+C:\Users\Mauris\Desktop\University\Semester 1\Project Managment\Nescol 4 Project\Final Project\projectDesign\obj\Debug\projectDesign.csprojResolveAssemblyReference.cache
+C:\Users\Mauris\Desktop\University\Semester 1\Project Managment\Nescol 4 Project\Final Project\projectDesign\obj\Debug\projectDesign.Addcs.resources
+C:\Users\Mauris\Desktop\University\Semester 1\Project Managment\Nescol 4 Project\Final Project\projectDesign\obj\Debug\projectDesign.Amend.resources
+C:\Users\Mauris\Desktop\University\Semester 1\Project Managment\Nescol 4 Project\Final Project\projectDesign\obj\Debug\projectDesign.Amend2.resources
+C:\Users\Mauris\Desktop\University\Semester 1\Project Managment\Nescol 4 Project\Final Project\projectDesign\obj\Debug\projectDesign.Allocate_Key.resources
+C:\Users\Mauris\Desktop\University\Semester 1\Project Managment\Nescol 4 Project\Final Project\projectDesign\obj\Debug\projectDesign.Login.resources
+C:\Users\Mauris\Desktop\University\Semester 1\Project Managment\Nescol 4 Project\Final Project\projectDesign\obj\Debug\projectDesign.Properties.Resources.resources
+C:\Users\Mauris\Desktop\University\Semester 1\Project Managment\Nescol 4 Project\Final Project\projectDesign\obj\Debug\projectDesign.Register.resources
+C:\Users\Mauris\Desktop\University\Semester 1\Project Managment\Nescol 4 Project\Final Project\projectDesign\obj\Debug\projectDesign.csproj.GenerateResource.Cache
+C:\Users\Mauris\Desktop\University\Semester 1\Project Managment\Nescol 4 Project\Final Project\projectDesign\obj\Debug\projectDesign.csproj.CoreCompileInputs.cache
+C:\Users\Mauris\Desktop\University\Semester 1\Project Managment\Nescol 4 Project\Final Project\projectDesign\obj\Debug\projectDesign.exe
+C:\Users\Mauris\Desktop\University\Semester 1\Project Managment\Nescol 4 Project\Final Project\projectDesign\obj\Debug\projectDesign.pdb

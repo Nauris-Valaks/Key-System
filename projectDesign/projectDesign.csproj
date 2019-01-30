@@ -1,0 +1,207 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D898F320-2227-4EF7-8DE1-BB0BD02A1797}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>projectDesign</RootNamespace>
+    <AssemblyName>projectDesign</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Addcs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Addcs.Designer.cs">
+      <DependentUpon>Addcs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin.cs" />
+    <Compile Include="Amend.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Amend.Designer.cs">
+      <DependentUpon>Amend.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Amend2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Amend2.Designer.cs">
+      <DependentUpon>Amend2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Asign Key.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Asign Key.Designer.cs">
+      <DependentUpon>Asign Key.cs</DependentUpon>
+    </Compile>
+    <Compile Include="keyDataSet.cs">
+      <DependentUpon>keyDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="keyDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>keyDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="keysDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>keysDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="loginsDataset.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>loginsDataset.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="LoginsDataSet1.cs">
+      <DependentUpon>LoginsDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="LoginsDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>LoginsDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Register.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Register.Designer.cs">
+      <DependentUpon>Register.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User.cs" />
+    <EmbeddedResource Include="Addcs.resx">
+      <DependentUpon>Addcs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Amend.resx">
+      <DependentUpon>Amend.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Amend2.resx">
+      <DependentUpon>Amend2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Asign Key.resx">
+      <DependentUpon>Asign Key.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Register.resx">
+      <DependentUpon>Register.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="keyDataSet.xsc">
+      <DependentUpon>keyDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="keyDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>keyDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="keyDataSet.xss">
+      <DependentUpon>keyDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="keysDataSet1.xsc">
+      <DependentUpon>keysDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="keysDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>keysDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="keysDataSet1.xss">
+      <DependentUpon>keysDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="loginsDataset.xsc">
+      <DependentUpon>loginsDataset.xsd</DependentUpon>
+    </None>
+    <None Include="loginsDataset.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>loginsDataset.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="loginsDataset.xss">
+      <DependentUpon>loginsDataset.xsd</DependentUpon>
+    </None>
+    <None Include="LoginsDataSet1.xsc">
+      <DependentUpon>LoginsDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="LoginsDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>LoginsDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="LoginsDataSet1.xss">
+      <DependentUpon>LoginsDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="KeyStorageSystem.accdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Logins.accdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
